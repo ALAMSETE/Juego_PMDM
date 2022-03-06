@@ -7,4 +7,4 @@ Para poder ganar a tu oponente debes pulsar el máximo número de veces que pued
 Juego creado con el framework LibGDX.
 
 ## Apk
-La apk se encuentra en la carpeta release con el nombre de ALAM_race.apk
+La apk se encuentra en la carpeta android/release con el nombre de ALAM_race.apk
