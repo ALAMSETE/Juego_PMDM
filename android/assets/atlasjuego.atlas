@@ -1,0 +1,118 @@
+
+atlasjuego.png
+size: 1983, 1934
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+clicked_g
+  rotate: false
+  xy: 1676, 605
+  size: 192, 127
+  orig: 192, 127
+  offset: 0, 0
+  index: -1
+coche1
+  rotate: false
+  xy: 1634, 40
+  size: 322, 128
+  orig: 322, 128
+  offset: 0, 0
+  index: -1
+coche2
+  rotate: false
+  xy: 1642, 300
+  size: 330, 128
+  orig: 330, 128
+  offset: 0, 0
+  index: -1
+coche3
+  rotate: false
+  xy: 1310, 170
+  size: 324, 128
+  orig: 324, 128
+  offset: 0, 0
+  index: -1
+coche4
+  rotate: false
+  xy: 1676, 734
+  size: 305, 128
+  orig: 305, 128
+  offset: 0, 0
+  index: -1
+cocher1
+  rotate: false
+  xy: 1310, 40
+  size: 322, 128
+  orig: 322, 128
+  offset: 0, 0
+  index: -1
+cocher2
+  rotate: false
+  xy: 1310, 300
+  size: 330, 128
+  orig: 330, 128
+  offset: 0, 0
+  index: -1
+cocher3
+  rotate: false
+  xy: 1636, 170
+  size: 324, 128
+  orig: 324, 128
+  offset: 0, 0
+  index: -1
+cocher4
+  rotate: false
+  xy: 1676, 864
+  size: 305, 128
+  orig: 305, 128
+  offset: 0, 0
+  index: -1
+carretera
+  rotate: false
+  xy: 2, 994
+  size: 1920, 938
+  orig: 1920, 938
+  offset: 0, 0
+  index: -1
+game_over
+  rotate: false
+  xy: 1274, 430
+  size: 400, 260
+  orig: 400, 260
+  offset: 0, 0
+  index: -1
+gameover_bg_g
+  rotate: false
+  xy: 2, 421
+  size: 1270, 571
+  orig: 1270, 571
+  offset: 0, 0
+  index: -1
+podio
+  rotate: false
+  xy: 2, 2
+  size: 502, 417
+  orig: 502, 417
+  offset: 0, 0
+  index: -1
+sf_coche_rojo
+  rotate: false
+  xy: 1274, 692
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+sf_coche_verde
+  rotate: false
+  xy: 908, 119
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+you_win_g
+  rotate: false
+  xy: 506, 50
+  size: 400, 369
+  orig: 400, 369
+  offset: 0, 0
+  index: -1
